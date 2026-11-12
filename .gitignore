@@ -1,0 +1,68 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Temporary Files
+temp/
+tmp/
+
+# Chroma DB (for future RAG projects)
+chroma_db/
+*.sqlite3
+
+# LangChain / LangGraph
+.langgraph_api/
+
+# Model Artifacts
+models/
+*.bin
+*.gguf
+
+# Testing
+.pytest_cache/
+
+# UV
+uv.lock
+
+# Secrets
+secrets.toml

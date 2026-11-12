@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+python-dotenv
+
+requests
+
+tavily-python
+
+rich
+
+streamlit
+
+ollama
